@@ -37,7 +37,7 @@ regional distribution, and monthly movement using KPI visuals and trend charts.
 
 ### 👥 3. Customer Analysis Page  
 
-![Customer Analysis Preview](/images/CUSTOMER%20ANALYSIS%20PAGE.PNG)
+![Customer Analysis Preview]([/images/CUSTOMER%20ANALYSIS%20PAGE.PNG](https://github.com/nikhilhattiholi/FMCG/blob/main/Customer%20Analysis.png))
 
 The **Customer Analysis Page** highlights engagement, loyalty segmentation,  
 regional distribution, top & bottom performing customers, and transaction trends —  
